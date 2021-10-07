@@ -1,4 +1,5 @@
 - Hi, I'm Clayton Jones! welcome to my GitHub profile.
+   - I'm also on [Codewars](https://www.codewars.com/users/clayrock78)!
 - I'm interested in...
    - Automation
    - Encryption
