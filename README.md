@@ -7,9 +7,9 @@
    - Practical Problems
    - Enriching life with well-written code
 - I'm currently learning...
-  - Python
-  - Java
-  - C++
+  - Python (Proficient)
+  - Java (Beginner)
+  - C++ (Beginner)
   - Linux 
 
 <!---
