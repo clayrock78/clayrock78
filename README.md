@@ -6,11 +6,6 @@
    - Security
    - Practical Problems
    - Enriching life with well-written code
-- I'm currently learning...
-  - Python (Proficient)
-  - Java (Beginner)
-  - C++ (Beginner)
-  - Linux 
 
 <!---
 clayrock78/clayrock78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
