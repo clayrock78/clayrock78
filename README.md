@@ -2,10 +2,10 @@
    - I'm also on [Codewars](https://www.codewars.com/users/clayrock78)!
 - I'm interested in...
    - Automation
-   - Encryption
-   - Security
+   - Robotics
    - Practical Problems
    - Enriching life with well-written code
+   - Having fun writing code
 
 <!---
 clayrock78/clayrock78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
