@@ -1,13 +1,1 @@
-- Hi, I'm Clayton Jones! welcome to my GitHub profile.
-   - I'm also on [Codewars](https://www.codewars.com/users/clayrock78)!
-- I'm interested in...
-   - Automation
-   - Robotics
-   - Practical Problems
-   - Enriching life with well-written code
-   - Having fun writing code
-
-<!---
-clayrock78/clayrock78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Clayton's GitHub stats](https://github-readme-stats.vercel.app/api?username=clayrock78)](https://github.com/anuraghazra/github-readme-stats)
